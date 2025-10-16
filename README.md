@@ -1,11 +1,11 @@
 ```markdown
-# Calculadora Simples
+# Calculadora 
 
 Calculadora web funcional desenvolvida com HTML, CSS e JavaScript puro. Interface limpa e intuitiva para realizar operações matemáticas básicas.
 
 ## Demonstração
 
-Acesse a calculadora online: [Ver Demo](https://ohhlevix.github.io/calculadora-simples/)
+Acesse a calculadora online: (https://ohhlevix.github.io/calculadora-simples/)
 
 ## Funcionalidades
 
@@ -21,7 +21,7 @@ Acesse a calculadora online: [Ver Demo](https://ohhlevix.github.io/calculadora-s
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ## Como Usar Localmente
 
@@ -41,9 +41,9 @@ cd calculadora-simples
 
 ```
 calculadora-simples/
-├── index.html          # Arquivo principal com HTML, CSS e JS
+├── index.html          # Arwuivo de base, apenas redirecionamento 
 ├── README.md           # Documentação do projeto
-└── screenshot.png      # Preview da calculadora (opcional)
+└── calc.html           # Arquivo principal com HTML, CSS e JS
 ```
 
 ## Funcionalidades da Interface
@@ -59,11 +59,9 @@ calculadora-simples/
 
 ## Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por [OhLevix]
 
 GitHub: [@Ohhlevix](https://github.com/Ohhlevix)
 
-## Licença
 
-Este projeto está sob a licença MIT.
 ```
