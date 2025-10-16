@@ -23,19 +23,6 @@ Acesse a calculadora online: (https://ohhlevix.github.io/calculadora-simples/)
 - CSS3
 - JavaScript 
 
-## Como Usar Localmente
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/Ohhlevix/calculadora-simples.git
-```
-
-2. Navegue até a pasta do projeto:
-```bash
-cd calculadora-simples
-```
-
-3. Abra o arquivo `index.html` no seu navegador preferido
 
 ## Estrutura do Projeto
 
