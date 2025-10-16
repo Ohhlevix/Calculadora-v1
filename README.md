@@ -4,7 +4,7 @@ Calculadora funcional desenvolvida com HTML, CSS e JavaScript puro, com interfac
 
 ## Demonstração
 
-[Acesse a calculadora online](https://ohhlevix.github.io/calculadora-simples/)
+[Acesse a calculadora online](https://ohhlevix.github.io/Calculadora-v1/calc.html)
 
 ## Sobre o Projeto
 
