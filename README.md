@@ -1,6 +1,3 @@
-
-
-```markdown
 # Calculadora Web
 
 Calculadora funcional desenvolvida com HTML, CSS e JavaScript puro, com interface limpa e intuitiva para operações matemáticas básicas.
@@ -51,6 +48,3 @@ calculadora-simples/
 Desenvolvido por **OhLevix**
 
 [GitHub](https://github.com/Ohhlevix)
-```
-
-Agora está mais limpo, organizado e com melhor fluidez!
