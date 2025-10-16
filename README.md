@@ -1,53 +1,56 @@
-```markdown
-# Calculadora
 
-Calculadora web funcional desenvolvida com HTML, CSS e JavaScript puro. Interface limpa e intuitiva para realizar operações matemáticas básicas.
+
+```markdown
+# Calculadora Web
+
+Calculadora funcional desenvolvida com HTML, CSS e JavaScript puro, com interface limpa e intuitiva para operações matemáticas básicas.
 
 ## Demonstração
 
-Acesse a calculadora online: [Ver Demo](https://ohhlevix.github.io/calculadora-simples/)
+[Acesse a calculadora online](https://ohhlevix.github.io/calculadora-simples/)
+
+## Sobre o Projeto
+
+Este projeto foi desenvolvido como parte do meu portfólio para demonstrar habilidades em desenvolvimento front-end. A calculadora possui design simples e responsivo, funcionando perfeitamente em diferentes dispositivos.
 
 ## Funcionalidades
 
-- Operações matemáticas básicas (adição, subtração, multiplicação, divisão)
-- Display duplo mostrando entrada e resultado
-- Botão de limpar tudo (C)
-- Botão para apagar último caractere
+- Operações básicas: adição, subtração, multiplicação e divisão
+- Display duplo com entrada e resultado
+- Botões para limpar (C) e apagar último caractere (←)
 - Suporte a números decimais
 - Interface responsiva
-- Link direto para portfólio no GitHub
+- Link para portfólio GitHub
 
-## Tecnologias Utilizadas
+## Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Estrutura do Projeto
+## Como Usar
+
+A calculadora funciona de forma intuitiva:
+
+1. Clique nos números para inserir valores
+2. Selecione a operação desejada (+, -, ×, ÷)
+3. Pressione "=" para calcular o resultado
+4. Use "C" para limpar tudo ou "←" para apagar o último dígito
+
+## Estrutura
 
 ```
 calculadora-simples/
-├── index.html          # Arquivo de redirecionamento
-├── calc.html           # Arquivo principal com HTML, CSS e JS
-└── README.md           # Documentação do projeto
+├── index.html    # Redirecionamento
+├── calc.html     # Calculadora principal
+└── README.md     # Documentação
 ```
-
-## Funcionalidades da Interface
-
-- **Display Superior**: Mostra a operação digitada
-- **Display Inferior**: Exibe o resultado do cálculo
-- **Botões Numéricos**: Números de 0 a 9
-- **Botões de Operação**: +, -, ×, ÷
-- **Botão C**: Limpa toda a calculadora
-- **Botão ←**: Remove o último caractere digitado
-- **Botão =**: Calcula o resultado
-- **Botão .**: Adiciona ponto decimal
 
 ## Autor
 
-Desenvolvido por OhLevix
+Desenvolvido por **OhLevix**
 
-GitHub: [@Ohhlevix](https://github.com/Ohhlevix)
+[GitHub](https://github.com/Ohhlevix)
 ```
 
-Pronto! Agora está formatado corretamente e pode copiar direto.
+Agora está mais limpo, organizado e com melhor fluidez!
