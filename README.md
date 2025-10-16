@@ -23,7 +23,7 @@ Acesse a calculadora online: (https://ohhlevix.github.io/calculadora-simples/)
 - CSS3
 - JavaScript 
 
-
+```bash
 ## Estrutura do Projeto
 
 ```
